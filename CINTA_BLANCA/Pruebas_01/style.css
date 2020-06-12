@@ -1,0 +1,131 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baskervville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+
+
+
+
+#mi-body {
+
+  
+    font-family: 'Baskervville', serif;
+
+
+}
+
+
+
+
+
+.header {
+  background: url(images/NEW_HORIZONS-17.jpg) no-repeat center;
+  background-size: cover;
+  min-height: 100vh;
+}
+ 
+.header .navbar {
+  background-color: transparent !important;
+}
+
+
+.container{
+
+  width: 100%;
+
+
+}
+
+p{
+
+  font-size: 25px;
+
+
+}
+
+.my-list{
+
+  margin-left: 70px;
+
+
+
+}
+
+.navbar{
+
+  font-family: 'Josefin Sans', sans-serif;
+  
+
+}
+
+
+.my-row{
+
+height: 600px;
+
+}
+
+h5{
+
+font-size: 5vh;
+padding-left: 15%;
+padding-right: 15%;
+
+
+}
+
+h3{
+  padding-top: 60px;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+}
+
+
+.img-thumbnail{
+
+width: 250px;
+height: 250px;
+border: none;
+
+}
+
+  .formulario {
+    display: flex;
+    justify-content: flex-start;  
+    width: 80%;
+    
+  }
+
+  form.mx-5.mb-5 {
+    width:100%;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+
+  .form-cont {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ 
+  }
+
+  .btn{
+
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+  }
+
+  .my-btn{
+
+    background-color: rgb(206, 144, 0);
+
+
+  }
+
+.my-footer{
+
+
+  }
+
+

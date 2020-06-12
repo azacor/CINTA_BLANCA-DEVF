@@ -1,0 +1,35 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+h1{
+    font-family: 'Metal Mania', cursive;
+}
+
+
+p{
+    font-family: 'Nunito', sans-serif;
+
+
+
+}
+.my-container{
+    border: black 3px solid;
+    height: 700px;
+}
+
+
+
+.my-col{
+    border: rgb(133, 8, 4) 3px solid;
+    height: 50%;
+
+}
+
+.my-icon{
+
+    color: violet;
+
+
+
+}

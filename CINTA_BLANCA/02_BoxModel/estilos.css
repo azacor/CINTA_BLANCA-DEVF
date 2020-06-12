@@ -1,0 +1,113 @@
+body{
+    font-family: sans-serif;
+
+}
+
+h1 {
+    width: 700px;
+    height: 100px;
+    margin-top: 200px;
+    margin-left: 600px;
+    display: block;
+
+}
+
+
+a {
+    
+}
+    /* margin-top: ;
+       margin-left 
+       margin-bottom
+       margin-right: ; 
+    */
+    /* padding-left: ;
+    padding-top: ;
+    padding-right: ;
+    padding-bottom: ; */
+.superior-right {
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px 30px;
+
+    
+}
+
+.superior-right a {
+    margin: 10px 10px;
+    margin-top:15px;
+    text-decoration: none;
+    color: grey;
+    font-size: 15px;
+    
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.contenedor img {
+    height: 92px;
+    width: 272px;
+    padding-top: 109px;
+}
+
+#busqueda {
+    margin-top: 25px;
+    width: 387px;
+    height: 34px;
+    border: 0.5px solid rgb(172, 170, 170);
+    webkit-border-radius: 50px;
+    moz-border-radius: 50px;
+    border-radius: 50px;
+    
+}
+
+.botones {
+    display: flex;
+    justify-content: center;
+ 
+
+
+}
+
+.botones button {
+    margin: 20px 5px;
+    width: 150px; 
+    height: 34px;
+    webkit-border-radius: 10px;
+    moz-border-radius: 10px;
+    border-radius: 10px;
+    border: none;
+    background: #EFEFEF;
+    color:  rgb(131, 130, 130);
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    color: grey;
+    font-size: 15px;
+
+}
+
+.site-footer {
+    background: #f2f2f2;
+    display:block;
+    position: fixed;
+    font-size:14px;
+    padding-left: 27px;
+    padding-top: 30px;
+    height: 8%;
+    min-height: 40px;
+    width: 100%;
+    top:92%;
+  
+    color:  rgb(131, 130, 130);
+
+
+  }

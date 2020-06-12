@@ -1,0 +1,111 @@
+
+body{
+
+
+ background: url(images/margarita_01.jpg) no-repeat center;
+ background-size: cover;
+ min-height: 100vh;
+
+}
+
+.my-container{
+
+    width: 700px;
+    height: 600px;
+    margin-top: 100px;
+
+    
+
+}
+
+
+
+.my-bn{
+
+margin-top: 50px;
+
+}
+
+
+
+.my-row{
+
+border-radius: 20px;
+
+
+}
+
+
+
+
+
+#Pnombre{
+background: none;
+border-top: none;
+border-left: none;
+border-right: none;
+
+
+}
+
+#Pdireccion{
+background: none;
+border-top: none;
+border-left: none;
+border-right: none;
+margin-top: 10px;
+
+
+
+}
+
+#Ptelefono{
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-top: 10px;
+
+
+}
+
+#Ppinia{
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-top: 10px;
+
+
+}
+
+
+.tarjeta {
+
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 25%;
+    border-radius: 20px;
+    padding-top: 30px;
+    
+}
+
+#pizzaP{
+    width: 250px;
+
+
+}
+
+#pizzaH{
+    width: 250px;
+
+
+}
+
+
+.none{
+    display: none;
+}
+

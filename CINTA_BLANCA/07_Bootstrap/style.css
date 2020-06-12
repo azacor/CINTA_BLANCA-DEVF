@@ -1,0 +1,80 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baskervville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+
+
+
+
+#mi-body {
+
+  
+
+    font-family: 'Baskervville', serif;
+
+
+}
+
+.card-text{
+  font-family: 'Raleway', sans-serif;
+  
+}
+
+.card{
+  border: none;
+
+
+}
+
+.navbar{
+
+  font-family: 'Raleway', sans-serif;
+
+
+
+}
+.mt-5 {
+    margin-top: $spacer !important;
+  }
+
+  .py-5 {
+
+    padding: $spacer !important;
+  }
+
+
+  .mx-5{
+    margin-left: ($spacer * .5) !important;
+    margin-right: ($spacer * .5) !important;
+
+  }
+
+  .formulario {
+    display: flex;
+    justify-content: flex-start;  
+    width: 80%;
+    
+  }
+
+  form.mx-5.mb-5 {
+    width:100%;
+    font-family: 'Nunito', sans-serif;
+  
+  }
+
+  .form-cont {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ 
+  }
+
+  .btn{
+
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+
+  }
+
+  
